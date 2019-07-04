@@ -1,0 +1,19 @@
+//
+//  RecordVideo.pch
+//  PPRecordVideo
+//
+//  Created by 盼 on 2019/5/17.
+//  Copyright © 2019 pan. All rights reserved.
+//
+
+#ifndef RecordVideo_pch
+#define RecordVideo_pch
+
+
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* RecordVideo_pch */
